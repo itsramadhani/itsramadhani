@@ -32,5 +32,5 @@ Saya menggabungkan strategi **On-Page SEO**, **Data Analytics**, dan **Ads** unt
 ### 🚀 Let's Connect
 Terbuka untuk diskusi tentang SEO Content, Novel/Writing, atau Performance Marketing.
 
-* 💼 [LinkedIn](LINK-LINKEDIN-KAMU-DISINI)
-* 📧 [Email](mailto:EMAIL-KAMU-DISINI)
+* 💼 [LinkedIn](https://www.linkedin.com/in/itsramadhani/)
+* 📧 [Email](mailto:deva23ramadhani@gmail.com)
