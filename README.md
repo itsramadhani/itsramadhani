@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi There, I'm Ramadhani! 👋
+### The Content Architec | Website & Performance Marketer
 
-<!--
-**itsramadhani/itsramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya menggabungkan strategi **On-Page SEO**, **Data Analytics**, dan **Ads** untuk mengubah pengunjung menjadi pelanggan. Fokus saya adalah membuat konten yang disukai manusia dan mudah dipahami oleh mesin pencari (Google).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Marketing Stack
+
+**On-Page & Content Strategy:**
+* ✍️ **Content:** SEO Copywriting, Keyword Research, Content Structuring (H1-H6).
+* 🔍 **SEO Tools:** Google Search Console, Ubersuggest, Ahrefs/SEMrush.
+* 📝 **CMS:** WordPress (Yoast/RankMath), Blog Management.
+
+**Performance & Analytics:**
+* 📢 **Ads:** Google Ads (Search/Display), Meta Ads.
+* 📊 **Data:** Google Analytics 4 (GA4), Looker Studio.
+* 📉 **Tools:** Excel/Spreadsheet (Pivot Table & Data Cleaning).
+
+---
+
+### 📂 Portfolio Highlights
+
+| Project Category | Description | Tools Used |
+| :--- | :--- | :--- |
+| **🔍 SEO Audit** | [Dokumentasi Audit On-Page] Strategi perbaikan meta tags & struktur heading untuk meningkatkan CTR organik. | `GSC`, `Screaming Frog` |
+| **📝 Content Strategy** | [Artikel Pilar SEO] Riset keyword "high volume, low competition" dan implementasi siloing konten. | `Ubersuggest`, `WordPress` |
+| **💰 Paid Ads** | [Campaign Review] Analisis performa iklan Google Ads dengan fokus penurunan CPC. | `Google Ads`, `Excel` |
+
+---
+
+### 🚀 Let's Connect
+Terbuka untuk diskusi tentang SEO Content, Novel/Writing, atau Performance Marketing.
+
+* 💼 [LinkedIn](LINK-LINKEDIN-KAMU-DISINI)
+* 📧 [Email](mailto:EMAIL-KAMU-DISINI)
