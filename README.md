@@ -1,5 +1,5 @@
 # Hi There, I'm Ramadhani! 👋
-### The Content Architec | Digital Marketer
+### [i'm currently still working on it] The Content Architec | Digital Marketer
 
 Saya menggabungkan strategi **On-Page SEO**, **Data Analytics**, dan **Ads** untuk mengubah pengunjung menjadi pelanggan. Fokus saya adalah membuat konten yang disukai manusia dan mudah dipahami oleh mesin pencari (Google).
 
