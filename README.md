@@ -25,7 +25,7 @@ Saya menggabungkan strategi **On-Page SEO**, **Data Analytics**, dan **Ads** unt
 | :--- | :--- | :--- |
 | **🔍 SEO Audit** | [Dokumentasi Audit On-Page] Strategi perbaikan meta tags & struktur heading untuk meningkatkan CTR organik. | `GSC`, `GA4` |
 | **📝 Content Strategy** | [Artikel Pilar SEO] Riset keyword "high volume, low competition" dan implementasi siloing konten. | `Ubersuggest`, `Googel Trend` |
-| **💰 Paid Ads** | [Campaign Review] Analisis performa iklan Google Ads dengan fokus penurunan CPC. | `Google Ads`,'TikTok Ads','Meta Ads', `Excel` |
+| **💰 Paid Ads** | [Campaign Review] Analisis performa iklan Google Ads dengan fokus penurunan CPC. | `Google Ads`, `Excel` |
 
 ---
 
